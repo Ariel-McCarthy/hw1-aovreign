@@ -28,7 +28,7 @@
                 </nav>
             </figure>
             
-            <div id = "Page Info">
+            <div id = "PageInfo">
                 <br/>
                 An extremely important aspect of computer science is programming! <br/>
                 <p>
